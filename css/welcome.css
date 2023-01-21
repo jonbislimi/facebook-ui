@@ -1,0 +1,24 @@
+.welcome {
+	background-color: #f0f2f5;
+	font-family: 'Roboto', sans-serif;
+}
+
+main {
+	width: 885px;
+	margin: 200px auto;
+	display: flex;
+}
+
+.welcome-image {
+	height: 106px;
+}
+
+.section-left h2 {
+	margin-left: 30px;
+}
+
+.form {
+	background-color: #fff;
+	padding: 15px;
+	box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+}
